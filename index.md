@@ -1,7 +1,6 @@
 
 # Eamon B. O'Dea
-
-![headshot](ebodea-headshot.jpg)
+![ ](ebodea-headshot.jpg)
 
 The course of my life [(C.V.)](cv.pdf) currently brings me to a
 postdoctoral appointment in the [Drake
