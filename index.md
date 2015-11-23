@@ -33,7 +33,7 @@ pathogen incidence based on molecular data, and a related project that
 develops methods for regression modeling of pathogen migration rates
 based on location-tagged sequences is [in
 progress](https://github.com/e3bo/2015phylo). In [some
-work](http://biorxiv.org/content/biorxiv/early/2015/03/27/017178.full.pdf)
+work](http://biorxiv.org/content/early/2015/09/26/017178)
 on identification of models for the spread of an emerging porcine
 disease I learned about critical slowing down, and I'm looking forward
 to exploring the practical implications of such phenomena for
