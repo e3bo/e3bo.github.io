@@ -45,7 +45,7 @@ get_analytic_prob_fun <- function(R){
             for (x in seq(n, trunc)){
                 lterm <- (x - 1) * log(R) - (2 * x - 1) * log(R + 1)
                 lterm <- lterm + lfactorial(2 * x - 2) - lfactorial(x)
-                lterm <- lterm - lfactorial(x - 1) 
+                lterm <- lterm - lfactorial(x - 1)
                 cum <- cum + exp(lterm)
             }
             cum
@@ -85,12 +85,12 @@ make_outbreak_plots <- function(R = 0.5, nsims = 10){
     F <- ecdf(ob_sizes)
     knts <- knots(F)
     to <- knts[length(knts) - 1]
-    if(to == 1){
+    if(to == 1 || length(to) == 0){
         to <- 1.01
     }
     curve(1 - F(x), from=1, to = to, log="xy", n = 1001,
           xlab = "\nX", ylab = "Pr(outbreak size > X)")
     analytic_Fc <- Vectorize(get_analytic_prob_fun(R = R))
     curve(analytic_Fc(x), from=1, to = to, log="xy", n = 1001,
-          add = TRUE, col = 2)    
+          add = TRUE, col = 2)
 }
