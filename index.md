@@ -44,6 +44,7 @@ surveillance.
 - [Google Scholar](https://scholar.google.com/citations?user=nomqlOsAAAAJ)
 - [LinkedIn](https://www.linkedin.com/pub/eamon-o-dea/68/811/319)
 - [ORCID](http://orcid.org/0000-0003-4748-683X)
+- [publons](https://publons.com/a/1368712/)
 - [ResearchGate](http://www.researchgate.net/profile/Eamon_ODea)
 
 ## Contact information
