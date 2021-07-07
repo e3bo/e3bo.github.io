@@ -25,7 +25,7 @@ I learned about critical slowing down, and have since published 8
 papers on the potential use of dynamical systems concepts in the
 forecasting of major shifts in the dynamics of infectious diseases. I
 have also become involved in several collaborative infectious disease
-forecasting projects, such as the [COVID-19 Forecast Hub](https//covid19forecasthub.org), and I
+forecasting projects, such as the [COVID-19 Forecast Hub](https://covid19forecasthub.org), and I
 continue to work in this area.
 
 ## Website profiles
