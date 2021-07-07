@@ -21,12 +21,14 @@ based on location-tagged sequences is [in
 progress](https://github.com/e3bo/2015phylo). In [some
 work](http://biorxiv.org/content/early/2015/09/26/017178) on
 identification of models for the spread of an emerging porcine disease
-I learned about critical slowing down, and have since published 8
-papers on the potential use of dynamical systems concepts in the
-forecasting of major shifts in the dynamics of infectious diseases. I
-have also become involved in several collaborative infectious disease
-forecasting projects, such as the [COVID-19 Forecast Hub](https://covid19forecasthub.org), and I
-continue to work in this area.
+I learned about critical slowing down, and have since contributed to
+many [publications](http://daphnia.ecology.uga.edu/midas/?page_id=12)
+on the potential use of dynamical systems concepts in the forecasting
+of major shifts in the dynamics of infectious diseases. I have also
+become involved in several collaborative infectious disease
+forecasting projects, such as the [COVID-19 Forecast
+Hub](https://covid19forecasthub.org), and I continue to work in this
+area.
 
 ## Website profiles
 
