@@ -2,19 +2,6 @@
 # Eamon B. O'Dea
 ![ ](ebodea-headshot.jpg)
 
-The course of my life [(C.V.)](cv.pdf) currently brings me to a
-postdoctoral appointment in the [Drake
-lab](http://daphnia.ecology.uga.edu/drakelab) at the [University of
-Georgia's](http://www.uga.edu) [Odum School of
-Ecology](http://www.ecology.uga.edu). My appointment is funded by
-[MIDAS](http://www.epimodels.org) as a part of [Project
-AERO](http://daphnia.ecology.uga.edu/midas/), which has the stated
-goal of developing new methods for forecasting emergence and
-re-emergence of infectious diseases based on the theory of critical
-slowing down. Professors
-[Drake](http://www.ecology.uga.edu/facultyMember.php?Drake-21/) and
-[Park](http://www.ecology.uga.edu/facultyMember.php?Park-296/) are
-supervising me.
 
 The main theme of my research has been the development of methods to
 identify and estimate parameters for models of disease contact and
@@ -27,16 +14,19 @@ method](http://repositories.lib.utexas.edu/bitstream/handle/2152/21667/ODEA-DISS
 to estimate the rates at which HIV-risk relationships form and break
 from a complex survey data set. [My
 work](http://www.hindawi.com/journals/ipid/2011/238743/abs/) has also
-demonstrated how contact heteorgeneity may influence estimates of
+demonstrated how contact heterogeneity may influence estimates of
 pathogen incidence based on molecular data, and a related project that
 develops methods for regression modeling of pathogen migration rates
 based on location-tagged sequences is [in
 progress](https://github.com/e3bo/2015phylo). In [some
-work](http://biorxiv.org/content/early/2015/09/26/017178)
-on identification of models for the spread of an emerging porcine
-disease I learned about critical slowing down, and I'm looking forward
-to exploring the practical implications of such phenomena for
-surveillance.
+work](http://biorxiv.org/content/early/2015/09/26/017178) on
+identification of models for the spread of an emerging porcine disease
+I learned about critical slowing down, and have since published 8
+papers on the potential use of dynamical systems concepts in the
+forecasting of major shifts in the dynamics of infectious diseases. I
+have also become involved in several collaborative infectious disease
+forecasting projects, such as the [COVID-19 Forecast Hub](https//covid19forecasthub.org), and I
+continue to work in this area.
 
 ## Website profiles
 
@@ -50,4 +40,3 @@ surveillance.
 ## Contact information
 
 - e-mail: odea35 at gmail.com
-- skype: eamon.b.odea
