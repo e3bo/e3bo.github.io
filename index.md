@@ -31,7 +31,7 @@ Hub](https://covid19forecasthub.org), and I continue to work in this
 area.
 
 ## Website profiles
-
+- [Credly](https://www.credly.com/users/eamon-o-dea)
 - [GitHub](https://github.com/e3bo/)
 - [Google Scholar](https://scholar.google.com/citations?user=nomqlOsAAAAJ)
 - [LinkedIn](https://www.linkedin.com/pub/eamon-o-dea/68/811/319)
